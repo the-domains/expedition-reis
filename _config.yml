@@ -1,7 +1,7 @@
 name: Expedition Reis
 favicon: null
-layout_spectrum: 0.89195
-typography_spectrum: 0.05085451668128371
+layout_spectrum: 1
+typography_spectrum: 0.23748
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.07089224481023848
-  lightness: 0.15097657847218215
+  brandStrength: 0.1875
+  lightness: 0.25
   saturation: 0.7029702486470342
-  rhythmicContrast: 0.1781553472392261
+  rhythmicContrast: 0.25
 purpose: []
