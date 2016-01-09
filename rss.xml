@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Expedition Reis]]></title>
-        <description><![CDATA[Expedition Reis]]></description>
+        <title><![CDATA[Travel adventures of Chris & April]]></title>
+        <description><![CDATA[Travel adventures of Chris & April]]></description>
         <link>https://thegrid.ai/expedition-reis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 02:33:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2016 23:03:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/expedition-reis/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Alaska]]></title>
+            <description><![CDATA[<h1>Alaska</h1>]]></description>
+            <link>https://thegrid.ai/expedition-reis/alaska/index.html</link>
+            <guid isPermaLink="false">651f0459-5b5f-4373-9a71-23380979cfb2</guid>
+            <pubDate>Sat, 09 Jan 2016 23:03:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Iceberg]]></title>
             <description><![CDATA[<article><h1>Iceberg</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8d43d4afbd8b4f35ed8426add9b18e6e2a63a2c.jpg"></article>]]></description>
