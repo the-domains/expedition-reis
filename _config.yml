@@ -1,6 +1,6 @@
 name: Expedition Reis
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 typography_spectrum: 0.23748
 title: 'Travel adventures of Chris & April'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#4f5965'
     - '#e2e2e2'
     - '#028ed9'
-  brandStrength: 0.1875
+  brandStrength: 0.5
   lightness: 0.25
   saturation: 0.7029702486470342
   rhythmicContrast: 0.25
