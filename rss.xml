@@ -4,8 +4,15 @@
         <description><![CDATA[Travel adventures of Chris & April]]></description>
         <link>https://thegrid.ai/expedition-reis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 20:07:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jan 2016 20:48:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/expedition-reis/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Las Vegas]]></title>
+            <description><![CDATA[<article><h1>Las Vegas</h1><p>Vegas</p></article>]]></description>
+            <link>https://thegrid.ai/expedition-reis/las-vegas/index.html</link>
+            <guid isPermaLink="false">df4a9655-12d7-461c-acc6-cc16bad56e24</guid>
+            <pubDate>Thu, 28 Jan 2016 20:45:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Seattle]]></title>
             <description><![CDATA[<article><h1>Seattle</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7c23cc4f00cf944bef21199ee9eca09578cc187.jpg"></article>]]></description>
