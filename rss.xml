@@ -4,11 +4,18 @@
         <description><![CDATA[Travel adventures of Chris & April]]></description>
         <link>https://thegrid.ai/expedition-reis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 19:30:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jan 2016 19:48:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/expedition-reis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Seattle]]></title>
+            <description><![CDATA[<article><h1>Seattle</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7c23cc4f00cf944bef21199ee9eca09578cc187.jpg"></article>]]></description>
+            <link>https://thegrid.ai/expedition-reis/seattle/index.html</link>
+            <guid isPermaLink="false">cc5a8b45-7950-4fd3-b853-720d673c310c</guid>
+            <pubDate>Thu, 28 Jan 2016 19:47:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Arizona]]></title>
-            <description><![CDATA[<article><h1>Arizona</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/05cf1f04-82b9-43c6-86f1-57b05c4f039d.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Arizona</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83b6da48513b4f9a93c9fec6a43a4cd1b0b97990.jpg"></article>]]></description>
             <link>https://thegrid.ai/expedition-reis/arizona/index.html</link>
             <guid isPermaLink="false">469c5da5-0c0e-416e-92fd-0482efd9da09</guid>
             <pubDate>Thu, 28 Jan 2016 19:30:07 GMT</pubDate>
